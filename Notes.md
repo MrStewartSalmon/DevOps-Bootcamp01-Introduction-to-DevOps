@@ -16,7 +16,9 @@ Developers run tests themselves but they also have other dedicated testers. This
 
 Once the tests are complete The new features can be rolled out to the users. In order to release the application the application must be packaged Into a compressed code and then ran on a server.
 
-• Operations In case of a larger existing programme being run on the servers, when the software is released the application is updated and upgraded.
+• Operations 
+
+In case of a larger existing programme being run on the servers, when the software is released the application is updated and upgraded.
 
 Traditional Development/Operations vs. DevOps Culture
 
