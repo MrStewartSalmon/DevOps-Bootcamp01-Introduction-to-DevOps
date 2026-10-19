@@ -1,4 +1,4 @@
-# Overall Concepts
+# Introduction to DevOPs: Overall Concepts
 
 • Programming
 
@@ -20,7 +20,7 @@ Once the tests are complete The new features can be rolled out to the users. In 
 
 In case of a larger existing programme being run on the servers, when the software is released the application is updated and upgraded.
 
-Traditional Development/Operations vs. DevOps Culture
+# Traditional Development/Operations vs. DevOps Culture
 
 Traditionally, software development and software operations were handled by separate teams. Each team had a different job—and different priorities. Let’s use an online shopping website as an example.
 
